@@ -1,0 +1,2 @@
+# minimal-example
+ ejemplo minimo 
